@@ -1,5 +1,4 @@
-Hello! I'm Philip. I am an engineering student from austria.
-I'm still learning programming - so don't expect too much from my code ;)
+Hello! I'm Philip, an engineering student from austria.
 
 In case you want to contact me: phlp.keusch@gmail.com
 
